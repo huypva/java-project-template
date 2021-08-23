@@ -4,13 +4,13 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>io.codebyexample</groupId>
-    <artifactId>string-pool-example</artifactId>
+    <artifactId>hello-world-example</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>Parent</name>
 
     <modules>
-        <module>string-pool</module>
+        <module>hello-world</module>
     </modules>
 
 </project>

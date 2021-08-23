@@ -1,15 +1,14 @@
-The example project for String pool in Java
+The hello-world project
 
 <div align="center">
-    <img src="./assets/images/string_pool.png"/>
+    <img src="./assets/images/hello_world.png"/>
 </div>
 
-## Getting Started
 
 ## Project structure
 ```
 .
-├── string-pool
+├── hello-world
 │   ├── pom.xml
 │   ...
 ├── pom.xml
@@ -21,7 +20,7 @@ The example project for String pool in Java
 
 ```shell
 $ mvn clean package
-$ java -jar string-pool/target/string-pool-0.0.1-SNAPSHOT.jar
+$ java -jar hello-world/target/hello-world-0.0.1-SNAPSHOT.jar
 ```
 
 ```shell

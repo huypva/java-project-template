@@ -19,7 +19,7 @@ The hello-world project
 ## Start project
 
 ```shell
-$ mvn clean package
+$ ./mvn clean package
 $ java -jar hello-world/target/hello-world-0.0.1-SNAPSHOT.jar
 ```
 

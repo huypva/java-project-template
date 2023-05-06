@@ -4,6 +4,9 @@ The hello-world project
     <img src="./assets/images/hello_world.png"/>
 </div>
 
+## Prerequisites
+Make sure following software is installed on your PC
+- [JDK 17](https://www.oracle.com/java/technologies/downloads/#java17) or later
 
 ## Project structure
 ```
@@ -19,7 +22,7 @@ The hello-world project
 ## Start project
 
 ```shell
-$ ./mvn clean package
+$ ./mvnw clean package
 $ java -jar hello-world/target/hello-world-0.0.1-SNAPSHOT.jar
 ```
 
@@ -30,5 +33,13 @@ Compare value str1.equals(str3): true
 ```
 
 ## Contribute
+The code is open sourced. I encourage fellow developers to contribute and help improve it!
+
+- Fork it
+- Create your feature branch (git checkout -b new-feature)
+- Ensure all tests are passing
+- Commit your changes (git commit -am 'Add some feature')
+- Push to the branch (git push origin my-new-feature)
+- Create new Pull Request
 
 ## Reference

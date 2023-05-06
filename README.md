@@ -23,7 +23,7 @@ Make sure following software is installed on your PC
 
 ```shell
 $ ./mvnw clean package
-$ java -jar hello-world/target/hello-world-0.0.1-SNAPSHOT.jar
+$ java -jar ./hello-world/target/hello-world-0.0.1-SNAPSHOT.jar
 ```
 
 ```shell
